@@ -1,0 +1,59 @@
+
+{"empleados":[
+    { 
+        
+    "Name": "Javivi",
+    "Surname": "Garcia",
+    "Puesto": "Psicologia"
+
+    },
+    { 
+        
+    "Name": "Rosa",
+    "Surname": "Garcia",
+    "Puesto": "IT"
+
+    },{ 
+        
+    "Name": "Sergio",
+    "Surname": "Garcia",
+    "Puesto": "RRHH"
+
+    },{ 
+        
+    "Name": "Marcos",
+    "Surname": "Garcia",
+    "Puesto": "Administración"
+
+    }
+],
+"temporales":[
+    { 
+        
+    "Name": "Javivi",
+    "Surname": "Garcia",
+    "Puesto": "Psicologia"
+
+    },
+    { 
+        
+    "Name": "Rosa",
+    "Surname": "Garcia",
+    "Puesto": "IT"
+
+    },{ 
+        
+    "Name": "Sergio",
+    "Surname": "Garcia",
+    "Puesto": "RRHH"
+
+    },{ 
+        
+    "Name": "Marcos",
+    "Surname": "Garcia",
+    "Puesto": "Administración"
+
+    }
+]
+
+}

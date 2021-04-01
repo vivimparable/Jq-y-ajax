@@ -1,0 +1,16 @@
+.background-title{
+
+    background-color: blue;
+}
+
+#contenido, #boton4 {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #contenido {
+    padding: 50px;
+    display: none;
+  }
